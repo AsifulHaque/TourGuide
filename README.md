@@ -1,1 +1,1 @@
-# detour.com.bd
+# detour
